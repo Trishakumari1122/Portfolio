@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing projects, skills, experience, 
 
 ## 🌐 Live Demo
 
-[Visit the live portfolio](https://trishakumari1122.github.io/Portfolio/)
+[Visit the live portfolio](https://trisha-portfolio-vkmw.vercel.app/)
 
 ## 📋 Features
 
@@ -120,7 +120,7 @@ The optimized production files will be in the `dist/` directory.
 ## 🔗 Links
 
 - **GitHub Repository** - [Trishakumari1122/Portfolio](https://github.com/Trishakumari1122/Portfolio)
-- **Portfolio Website** - [Live Demo](https://trishakumari1122.github.io/Portfolio/)
+- **Portfolio Website** - [Live Demo](https://trisha-portfolio-vkmw vercel.app/)
 
 ## 📄 License
 
@@ -136,6 +136,6 @@ This project is open source and available under the MIT License.
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
----
 
-**Made with ❤️ by Trisha Kumar**
+
+
