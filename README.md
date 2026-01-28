@@ -120,7 +120,8 @@ The optimized production files will be in the `dist/` directory.
 ## 🔗 Links
 
 - **GitHub Repository** - [Trishakumari1122/Portfolio](https://github.com/Trishakumari1122/Portfolio)
-- **Portfolio Website** - [Live Demo](https://trisha-portfolio-vkmw vercel.app/)
+- **Portfolio Website** - [Live Demo]
+(https://trisha-portfolio-vkmwvercel.app/)
 
 ## 📄 License
 
